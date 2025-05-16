@@ -1,0 +1,16 @@
+[
+  {
+    "key": "exemplo1",
+    "values": [
+      "valor1",
+      "valor2"
+    ]
+  },
+  {
+    "key": "exemplo2",
+    "values": [
+      "valor3",
+      "valor4"
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+Conteúdo de exemplo para o arquivo chunk6.
+Linhas de dados de entrada para o Mapper 6.

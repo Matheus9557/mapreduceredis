@@ -1,0 +1,2 @@
+Resultado final do processo MapReduce.
+Saída do reducer com dados agregados.
